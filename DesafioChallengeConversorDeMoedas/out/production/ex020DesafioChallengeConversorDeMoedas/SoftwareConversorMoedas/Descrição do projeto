@@ -1,0 +1,36 @@
+
+* Menu
+
+*************************************************************
+Seja Bem-Vindo ao Conversor de Moeda =)
+
+1) Dólar =>> Peso Argentino
+2) Peso Argentino =>> Dólar
+3) Dólar =>> Real Brasileiro
+4) Real Brasileiro =>> Dólar
+5) Dólar =>> Peso Colombiano
+6) Peso Colombiano =>> Dólar
+7) Sair
+
+Escolha uma opção válida:
+
+*************************************************************
+
+* resposta do programa:
+
+Digite o valor que deseja converter:
+100
+
+Valor 100,0 [USD] corresponde ao valor final de =>>> 486.65  [BRL]
+
+
+* API usada no projeto
+* ExchangeTate-API
+
+Sua chave de API: ce3eba946c9453cbeb31ad65
+
+exemplo: https://v6.exchangerate-api.com/v6/ce3eba946c9453cbeb31ad65/latest/USD
+
+Informação API: record
+"base_code": "USD",
+"conversion_rates"
